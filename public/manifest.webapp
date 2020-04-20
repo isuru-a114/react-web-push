@@ -4,7 +4,7 @@
   "start_url": "https://web-push-react.herokuapp.com/",
   "display": "standalone",
   "description": "Covid 19 Trivia app. stay at home and well healthy",
-  "subtitle": "Covid 19 Trivia app",
+  "subtitle": "Make the ball match the wall",
   "icons": {
     "16": "/icons/corona_16.png",
     "48": "/icons/corona_48.png",
@@ -54,14 +54,13 @@
     "orientation": "default",
     "locales": {
       "en-US": {
-        "name": "Covid Trivia",
-        "subtitle": "Covid 19 Trivia app",
-         "description": "Covid 19 Trivia app. stay at home and well healthy",
-        },
-        "zh-CN": {
-          "name": "模板",
-          "description": "KaiOS模板应用"
-        }
+        "name": "Calculator",
+        "description": "Template App for KaiOS"
+      },
+      "zh-CN": {
+        "name": "模板",
+        "description": "KaiOS模板应用"
+      }
     },
     "default_locale": "en-US"
 }
