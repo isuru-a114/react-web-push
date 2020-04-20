@@ -3,8 +3,8 @@
   "name": "Covid Trivia",
   "start_url": "https://web-push-react.herokuapp.com/",
   "display": "standalone",
-  "description": "Click to make the ball jump. Pass through the walls when they are the same color.",
-  "subtitle": "Make the ball match the wall",
+  "description": "Covid 19 Trivia app. stay at home and well healthy",
+  "subtitle": "Covid 19 Trivia app",
   "icons": {
     "16": "/icons/corona_16.png",
     "48": "/icons/corona_48.png",
@@ -54,13 +54,14 @@
     "orientation": "default",
     "locales": {
       "en-US": {
-        "name": "Calculator",
-        "description": "Template App for KaiOS"
-      },
-      "zh-CN": {
-        "name": "模板",
-        "description": "KaiOS模板应用"
-      }
+        "name": "Covid Trivia",
+        "description": "Covid 19 Trivia app. stay at home and well healthy",
+        "subtitle": "Covid 19 Trivia app",
+        },
+        "zh-CN": {
+          "name": "模板",
+          "description": "KaiOS模板应用"
+        }
     },
     "default_locale": "en-US"
 }
