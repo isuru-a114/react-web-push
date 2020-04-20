@@ -55,8 +55,8 @@
     "locales": {
       "en-US": {
         "name": "Covid Trivia",
-        "description": "Covid 19 Trivia app. stay at home and well healthy",
         "subtitle": "Covid 19 Trivia app",
+         "description": "Covid 19 Trivia app. stay at home and well healthy",
         },
         "zh-CN": {
           "name": "模板",
